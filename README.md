@@ -9,3 +9,6 @@ Me encanta el fútbol
 - San jorge
 - Huarte
 - Selección Paraguaya sub-16
+
+  
+  ## Lesiones
