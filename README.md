@@ -2,14 +2,10 @@
 
 Estudiante de [Cuatrovientos](https://www.cuatrovientos.org)
 
-Estudio 1 DAM (gran ciclo) 
+Me encanta el fútbol 
 
-## Asignaturas
-- Bases de datos
-- Entornos de desarrollo
-- Intinerario personal de la empleabilidad
-- Programacion
-- Ingles
-- Java
-- Sistemas informaticos
-- Digitalizacion
+## Equipos que he jugado
+- Ardoi
+- San jorge
+- Huarte
+- Selección Paraguaya sub-16
